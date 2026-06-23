@@ -144,6 +144,10 @@ The deep model produced the best test accuracy, while the shallow model trained 
 - Generated outputs such as `results/`, `runs/`, and `output/` are ignored.
 - The local YOLO model file can be kept under `object_detection/models/`, but it should not be committed.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Author
 
 Konstantinos Kiousis  
