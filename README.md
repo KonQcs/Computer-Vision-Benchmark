@@ -8,7 +8,7 @@
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv5-purple)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-**Two coursework projects for image classification and object detection in Advanced Topics in Computer Vision.**
+**Two coursework projects for image classification and object detection in Advanced Topics in Computer Vision, University of Thessaly.**
 
 </div>
 
