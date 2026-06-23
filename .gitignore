@@ -1,0 +1,39 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Environment and local config
+.env
+.env.*
+
+# Generated outputs
+output/
+outputs/
+results/
+runs/
+object_detection/output/
+object_detection/outputs/
+object_detection/results/
+object_detection/runs/
+
+# Large model/checkpoint files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.keras
